@@ -1,0 +1,6 @@
+numpy
+Pandas
+random
+pickle
+nltk tenserflow
+keras
